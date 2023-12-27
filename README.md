@@ -16,6 +16,7 @@ This Online Retail II data set contains all the transactions occurring for a UK-
 <br>
 Here you can find references about data set: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
+<br>
 
 ## Employees-dtatset
 
@@ -34,3 +35,15 @@ We have records of 1470 employees in the company
 ### Conclusions
 The main problem with employee departures is salary, as employees who leave the company receive lower salaries, and newly graduated employees often leave faster. Job satisfaction and work environment satisfaction are not a common reason for employee departure.
 I think the solution is to raise the salaries of newly graduated employees, and collect additional data on the average salary of fresh graduates in the market to further understand why.
+
+
+## Investigate a Dataset - Appointment Project
+
+## Introduction
+
+This project aims to analyze and address the issue of patients' non-attendance to medical appointments. We will explore the reasons behind their non-attendance, discuss these factors, and propose potential solutions. The insights derived from this analysis can be valuable for improving attendance rates and optimizing healthcare scheduling.
+
+
+### Dataset Description
+
+The dataset comprises 100,000 medical appointments, focusing on whether patients attended or missed their scheduled appointments. It includes various features that could potentially influence attendance, such as appointment details, patient demographics, and historical medical data.
